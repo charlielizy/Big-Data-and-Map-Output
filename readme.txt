@@ -1,4 +1,4 @@
-PHMT Developer - Applicant Test
+Developer - Applicant Test
 The test code is under Maven Project "PHMT" including source code, UnitTest and pom etc. pom.xml is including dependencies required for project. the code is based on version Java SE 1.8 and the UnitTest is base on JUnit 5.
 
 1. Core Java
